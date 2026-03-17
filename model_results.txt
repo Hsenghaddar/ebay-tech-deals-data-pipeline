@@ -23,4 +23,9 @@ Recall: 1.0
 F1 Score: 1.0
 Confusion Matrix:
 [[16  0]
- [ 0  1]]
+[ 0  1]]
+
+After Handling Class Imbalance
+Accuracy: 0.5
+Precision: 0.0
+Recall: 0.0
