@@ -1,0 +1,26 @@
+Logistic Regression (Baseline)
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1 Score: 1.0
+Confusion Matrix:
+[[16  0]
+ [ 0  1]]
+
+Logistic Regression + Feature Engineering
+Accuracy: 0.9411764705882353
+Precision: 0.0
+Recall: 0.0
+F1 Score: 0.0
+Confusion Matrix:
+[[16  0]
+ [ 1  0]]
+
+Decision Tree Classifier
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1 Score: 1.0
+Confusion Matrix:
+[[16  0]
+ [ 0  1]]
